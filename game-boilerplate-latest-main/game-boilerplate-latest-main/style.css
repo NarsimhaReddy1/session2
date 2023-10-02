@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+
+  canvas {
+    display: block;
+  }
+
+
+p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	color: #777;
+	display: block;
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.info {
+	margin: 14px auto;
+	text-align: justify;
+	font-size: 18px;
+	color: #999;
+}
+
+label {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #555;
+	display: block;
+}
